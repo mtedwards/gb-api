@@ -31,3 +31,6 @@ defines.php
 # Sublime Text
 *.sublime-workspace
 *.sublime-project
+
+# Local Netlify folder
+.netlify
